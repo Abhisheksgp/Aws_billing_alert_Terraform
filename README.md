@@ -46,7 +46,7 @@ You can clone this repository to your local machine using the following steps:
 
 
 ```
-git clone https://github.com/NotHarshhaa/aws-billing-alert-terraform.git
+git clone https://github.com/Abhisheksgp/Aws_billing_alert_Terraform.git
 ```
 This will create a copy of the repository on your local machine.
 
@@ -121,6 +121,6 @@ Feedback, bug reports, and pull requests are welcomed. Feel free to raise an iss
 
 
 # Hit the Star! ⭐
-***If you are planning to use this repo for learning, please hit the star. Thanks!***
+Thanks!***
 
-#### Author by [Harshhaa Reddy](https://github.com/NotHarshhaa)
+#### by Abhishek Abhisheksgp/Aws_billing_alert_Terraform.git
